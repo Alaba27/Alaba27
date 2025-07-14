@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Alaba Adeyemi
+👋 Hi, I’m Alaba Adeyemi
   
 **Cybersecurity Analyst, |Cybersecurity Architect | Cloud Security Engineer | Azure Solutions Architect |Scurity Project Manager**
 👀 I**I’m interested in:**
